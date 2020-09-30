@@ -49,7 +49,7 @@ Then you can add even more content in the frontmatter. None of the following are
   - linkedin
   - stackoverflow
   - youtube (needs a full URL as a custom URL requires 100 subs or more on YT)
-- schedule: an array of strings for when you stream. Feel free to add some text including scheduled streams that you do on a frequent basis
+- schedule: an array of strings for when you stream. Feel free to add some text including the scheduled streams that you do on a frequent basis
 - tags: an array of things you do. This includes programming languages, frameworks, spoken languages, etc
 - sites: an array of additional sites you wish to showcase on your page. Limit this to only the URL
 
