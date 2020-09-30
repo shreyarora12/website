@@ -20,13 +20,13 @@ Then, to start up a development server, run the `develop` node command.
 npm run develop
 ```
 
-The site will be spun up on port 8000 and if you update any page, the site will reload automatically.
+The site will spun up on port 8000 and if you update any page, the site will reload automatically.
 
 ## Member Page docs
 
 Every member of the Live Coders will have a markdown file in the `src/members` folder of this repo.
 
-If you want to watch a video on how this works, watch [Live Coders Site: Tutorial on filling out a member page](https://www.youtube.com/watch?v=yLjGvOb6eX0)
+If you want to watch a video on how this works, watch [Live Coders Site: Tutorial on filling out a member page](https://www.youtube.com/watch?v=yLjGvOb6eX0) .
 
 Each page consists of the following initially:
 
@@ -49,7 +49,7 @@ Then you can add even more content in the frontmatter. None of the following are
   - linkedin
   - stackoverflow
   - youtube (needs a full URL as a custom URL requires 100 subs or more on YT)
-- schedule: an array of strings for when you stream. Feel free to add text including scheduled streams that you do on a frequent basis
+- schedule: an array of strings for when you stream. Feel free to add some text including scheduled streams that you do on a frequent basis
 - tags: an array of things you do. This includes programming languages, frameworks, spoken languages, etc
 - sites: an array of additional sites you wish to showcase on your page. Limit this to only the URL
 
